@@ -41,12 +41,15 @@ Cleaned text improves NLP analysis and ensures models focus on meaningful words 
 
 ### Word Cloud
 A WordCloud visualization highlights the most frequently mentioned words related to NVIDIA.  
-- Frequent words include **GPU**, **AI**, **gaming**, and **performance**, indicating key discussion areas.  
+- Frequent words include **GPU**, **AI**, **gaming**, and **performance**, indicating key discussion areas.
+- 
 ![Description of Image](images/wordcloud.png)
 
 ### Sentiment Analysis
 - Used **VADER Sentiment Analyzer** to score each post.  
 - Distribution of sentiment scores shows most discussions are **neutral**, with slightly more **positive** mentions than negative.  
+
+![Description of Image](images/sentiment_analysis.png)
 
 **Summary Metrics:**
 - Total Posts: 2,000+  
